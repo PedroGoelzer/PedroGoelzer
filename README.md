@@ -1,16 +1,22 @@
-## Hi there 👋
+### Olá, eu sou o Pedro 👋
 
-<!--
-**PedroGoelzer/PedroGoelzer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)
+🐍 Aprendendo Python do zero, com o objetivo de me tornar desenvolvedor
+📌 Este perfil é onde registro minha evolução: dos primeiros exercícios aos primeiros projetos
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🚀 O que estou fazendo agora
+- Estudando lógica de programação e fundamentos de Python
+- Aprendendo a usar Git e GitHub na prática
+- Documentando meu progresso aqui e no [LinkedIn](https://www.linkedin.com/in/pedro-henrique-9649b42a3)
+
+#### 🛠️ Tecnologias que estou aprendendo
+`Python` `Git` `GitHub`
+
+#### 📈 Meta
+Conseguir minha primeira oportunidade como desenvolvedor júnior.
+
+---
+
+📫 Vamos trocar uma ideia? Me chama no [LinkedIn](https://www.linkedin.com/in/pedro-henrique-9649b42a3)****
